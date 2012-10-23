@@ -2,3 +2,7 @@ cosmos - ambient terminal application
 
 DESCRIPTION
 	generates field of stars that scrolls through terminal without input
+
+INSTRUCTIONS
+	make
+	./cosmos
