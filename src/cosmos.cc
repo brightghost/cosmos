@@ -3,7 +3,7 @@
  *
  *       Filename:  cosmos.cc
  *
- *    Description:  Implementation for cosmos.h header
+ *    Description:  Main file for cosmos 
  *
  *        Version:  1.0
  *        Created:  10/18/2012 16:23:14
