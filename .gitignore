@@ -1,0 +1,11 @@
+#Compiled object files
+*.o
+
+#Compiled binary
+cosmos
+
+#Swap files
+*.swp
+
+#DS_STORE
+.DS_STORE
