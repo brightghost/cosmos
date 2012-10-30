@@ -1,5 +1,5 @@
 cosmos: src/cosmos.o src/space.o
-	g++ -g -lncurses src/cosmos.o src/space.o -o cosmos 
+	g++ -g src/cosmos.o src/space.o -o cosmos -lncurses  
 cosmos.o: src/cosmos.cc
 	g++ -c -g src/cosmos.cc 
 space.o: src/space.cc
