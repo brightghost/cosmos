@@ -18,6 +18,7 @@
 #include <iostream>
 #include <time.h>
 #include <ncurses.h>
+#include <stdlib.h>
 #include "space.h"
 using namespace std;
 
